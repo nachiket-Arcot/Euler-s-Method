@@ -1,6 +1,7 @@
 # Euler-s-Method
 
 Approximates the y value of a function given an initial condition using Euler's Method.
+    
     Parameters: 
 
     x0: x value of the initial condition
