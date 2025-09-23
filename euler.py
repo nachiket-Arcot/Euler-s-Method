@@ -24,4 +24,5 @@ def euler(x0, y0, x_f, h):
         print(f"{rep}: x = {x_n}, y = {y_n}")
 
 
-euler(-2, 0, 2, 0.0001)
+euler(-2, 0, 2, 0.0001) #Replace Values with your parameters
+
