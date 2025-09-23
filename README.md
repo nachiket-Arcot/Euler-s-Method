@@ -1,6 +1,6 @@
 # Euler-s-Method
 
-Approximates the y value of a function given an initial condition using Euler's Method.
+Approximates the y value of a function given an initial condition and differential equation using Euler's Method.
     
     Parameters: 
 
