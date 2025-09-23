@@ -4,7 +4,8 @@ function = lambda x,y: x + (1/2)*(y**2) #Replace expression with your function
 def euler(x0, y0, x_f, h):
 
     """
-    Approximates the y value of a function given an initial condition using Euler's Method.
+    Approximates the y value of a function given an initial condition  and differential equation 
+    using Euler's Method.
     Parameters: 
 
     x0: x value of the initial condition
@@ -25,4 +26,5 @@ def euler(x0, y0, x_f, h):
 
 
 euler(-2, 0, 2, 0.0001) #Replace Values with your parameters
+
 
