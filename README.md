@@ -9,4 +9,4 @@ Approximates the y value of a function given an initial condition and differenti
     x_f: Target x value that you want to approximate the y value of
     h: Step Size 
 
-Purpose of this project was to approximate complex function values and repeating the process with different step sizes.
+Purpose of this project was to approximate complex function values and repeating the process with a lower step size each time.
